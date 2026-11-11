@@ -75,3 +75,8 @@ The current assessment uses basic keyword matching. It is a prototype, not a sem
 To make company research and interview preparation easier and more accessible for students and freshers.
 
 **EmployAI — Your Intelligent Career Preparation Assistant.**
+## 🚀 Live Demo
+
+Try EmployAI here:
+
+https://employai-shivaprasad.streamlit.app/
